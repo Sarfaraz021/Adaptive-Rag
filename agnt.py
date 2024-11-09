@@ -14,7 +14,7 @@ Original file is located at
 
 import os
 
-os.environ["OPENAI_API_KEY"] = "sk-proj-QkvkEs5F0nXvZUJnlMgcT3BlbkFJJF6SQRqOWucMf78XAUSF"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 
